@@ -8,3 +8,5 @@ basic-auth-password
 /bin
 /secrets
 .vscode
+
+/result
